@@ -1,0 +1,2 @@
+# RECUBE
+pygame release version
