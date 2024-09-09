@@ -1,0 +1,10 @@
+/.vscode
+/ClientVer
+/AssetMKD
+/server
+/USER_SOURCE
+/asset_setup.py
+*.proto
+/asset.bat
+/REPROTO.bat
+/RUN.bat
